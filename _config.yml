@@ -107,6 +107,7 @@ defaults:
       comments: true
       share: true
       related: true
+      math: true   # <--- 加这一行
   # _pages
   - scope:
       path: "_pages"
@@ -114,6 +115,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      math: true   # <--- 页面也支持公式
 
 category_archive:
   type: liquid
