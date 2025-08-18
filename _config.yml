@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Xiangming Meng"
-  avatar : "/assets/images/mxm.jpg"
+  avatar : "/assets/images/meng.png"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
