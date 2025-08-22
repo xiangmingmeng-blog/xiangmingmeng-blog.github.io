@@ -29,9 +29,6 @@ kramdown:
   math_engine: mathjax
 # 注意：不要再写 mathjax: true（那是 v2 的开关，会与 v3 冲突）
 
-minimal_mistakes:
-  mathjax: true
-
 url: https://xiangmingmeng-blog.github.io
 baseurl: ""
 
